@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Goekss</h1>
 <h3 align="center">.NET & React & AI</h3>
 
-- 🖥️ I’m currently working on [Vista.Core & CoreX - with RAG System](https://vcorex-demo.vercel.app/)
+- 🖥️ I’m currently working on [Vista.Core & CoreX - with RAG System](https://goekss.github.io/CoreX-Demo/) 
 
 - 🌱 I’m currently learning **Next.js Advenced Patterns, Node.js Perfor, AI - RAG Architecture, DevOps & Cloud Advenced Pattern, Vue.js & Angular**
 
-- 💻 Active Projects [GoAI ChatLab](https://goai-chatlab.vercel.app/)
+- 💻 Active Projects [GoAI ChatLab](https://goekss.github.io/GoAI-ChatLab/)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-one-khaki-43.vercel.app/](https://my-portfolio-one-khaki-43.vercel.app/)
+- 👨‍💻 All of my projects are available at [github/Goekss](https://github.com/Goekss)
 
 - 📫 How to reach me **gokhanbicer@mail.de**
-
-- 📄 Know about my experiences [https://my-portfolio-one-khaki-43.vercel.app/](https://my-portfolio-one-khaki-43.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +23,7 @@
 
 <br>
 <p align="center">
-  <a href="https://my-portfolio-one-khaki-43.vercel.app/" target="_blank">
+  <a href="https://goekss.github.io/Web-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Web_Portfolio-FFD700?style=for-the-badge&logoColor=black" alt="Portfolio" />
   </a>
 </p>
