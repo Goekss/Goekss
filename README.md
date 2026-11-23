@@ -1,39 +1,26 @@
 <h1 align="center">Hi 👋, I'm Goekss</h1>
 
 <h3 align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" width="30" height="30"/>
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/qdrant" alt="Qdrant" width="30" height="30"/>
-  </a>
+  
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/csharp/default.svg" width="38" height="38" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-dotnet/default.svg" width="38" height="38" alt=".NET" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" width="38" height="38" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" width="38" height="38" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" width="38" height="38" alt="Docker" />&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/ffffff" width="38" height="38" alt="Ollama" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/qdrant/default.svg" width="38" height="38" alt="Qdrant" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-sql-server/default.svg" width="38" height="38" alt="SQL Server"/>
+</p>
+
 </h3>
  &nbsp;&nbsp;&nbsp;
  
 - 🖥️ I’m currently working on [Vista.Core & CoreX - with RAG System](https://goekss.github.io/CoreX-Demo/)
 - 🌱 I’m currently learning **Next.js Advanced Patterns, Node.js Performance, AI/RAG Architecture, DevOps & Cloud Advanced Patterns, Vue.js & Angular**
-- 💻 Active Projects: [GoAI ChatLab](https://goekss.github.io/GoAI-ChatLab/)
+- 💻 Active Projects: [GoAI ChatLab](https://goekss.github.io/GoAI-ChatLab/), [PCL-OptiFlow](https://github.com/Goekss/PLC-OptiFlow)
 - 👨‍💻 All of my projects are available at [GitHub/Goekss](https://github.com/Goekss)
 - 📫 How to reach me: **gokhanbicer@mail.de**
 
