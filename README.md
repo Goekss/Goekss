@@ -16,6 +16,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
   </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/ollama/ffffff" alt="Ollama" width="30" height="30"/>
